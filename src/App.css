@@ -1,0 +1,49 @@
+root{
+  background-color: ivory;
+  padding:0;
+}
+.row{
+  margin:0;
+  padding:1px;
+}
+.avatar{
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  max-height: 100px;
+  max-width: 100px;
+  margin:-40px auto auto auto;
+}
+.avatar-container{
+  max-height: 100px;
+  max-width: 100px;
+  margin:auto;
+}
+.jumbotron{
+  height: 250px;
+  max-height: 240px;
+  margin:0;
+}
+.dashboard{
+  background-color: whitesmoke;
+  padding:60px 20px 20px 20px;
+  margin:0;
+  border-radius: 5px;
+  margin-top:-50px;
+  width:100%;
+}
+.conteudo{
+  margin-top:60px;
+  background-color: whitesmoke;
+  padding:16px;
+  border-radius: 5px;
+}
+.col-12, .col-sm-4{
+  padding:1px;
+  margin:0;
+}
+.post-image{
+  max-height: 150px;
+  max-width: 150px;
+  margin-right: 16px;
+}
