@@ -47,3 +47,9 @@ root{
   max-width: 150px;
   margin-right: 16px;
 }
+.noShow{
+  display:none;
+  height: 0.01;
+  width: 0.001;
+  z-index: -10000;
+}
